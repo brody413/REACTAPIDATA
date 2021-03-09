@@ -1,0 +1,17 @@
+[
+    {
+        "movieName": "Test",
+        "Rating": "1",
+        "Recommend": "yes"
+    },
+    {
+        "movieName": "Test2",
+        "Rating": "2",
+        "Recommend": "no"
+    },
+    {
+        "movieName": "Test3",
+        "Rating": "3",
+        "Recommend": "yes"
+    }
+]
